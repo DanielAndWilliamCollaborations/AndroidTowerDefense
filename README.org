@@ -1,0 +1,15 @@
+* Android Tower Defense
+
+Tower defense clone for android.  Just starting out with this project
+and looking to get things working in prototype form first.
+
+The latest version of this project is at
+http://github.com/DanielAndWilliamCollaborations/AndroidTowerDefense.
+
+** First steps
+First thing to get working will be a map editor that will start in its
+own topic branch.
+
+*** Map editor
+This exploratory work will be done by Daniel.  Not really sure all
+that he is planning so far.
